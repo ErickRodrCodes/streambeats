@@ -4,7 +4,7 @@ A compilation of streambeats albums in mp3 format, 360kbps studio mode.
 
 ## Why?
 
-I found frustrating at start to get albums properly tagged my player and stream players to fetch artorks and related information, reason why I decided to build this repo to allow anyone to get access to the library in a easy way using Git.
+While I stream I found frustrating at start to get albums properly tagged in my overlay player and stream players, so those can fetch artorks and related information. Raw files does not contain such info, and for that reason I decided to build this repo to allow anyone to get access to the library, with tags and artworks in a easy way using Git.
 
 ## Objective
 
