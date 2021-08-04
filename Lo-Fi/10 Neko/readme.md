@@ -2,7 +2,7 @@
 
 ## by StreamBeats by Harris Heller
 
-<img src="artwork.png" width="300" />
+<img src="artwork.jpg" width="300" />
 
 | Track | Title                          | Author                       | length |
 | ----- | ------------------------------ | ---------------------------- | ------ |
