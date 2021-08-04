@@ -11,7 +11,7 @@ Albums will be uploaded as soon as possible.
 | 1. High At The Planetarium                                                                                       | 2. Fantasy Arcade | 3. Sakura Dreams         |
 | 4. In 4k                                                                                                         | 5. Ocularium      | 6. Certain Shade Of Blue |
 | 7. Gold                                                                                                          | 8. White          | 9. Inu                   |
-| [10. Neko](10-neko/readme.md)<br>[<img src="../Lo-Fi/10-Neko/artwork.png" width="300" alt="10. Neko">](10-neko/readme.md) |                   |                          |
+| [10. Neko](10-neko/)<br>[<img src="../Lo-Fi/10-Neko/artwork.png" width="300" alt="10. Neko">](10-neko/) |                   |                          |
 
 ## Singles
 
@@ -19,4 +19,4 @@ Albums will be uploaded as soon as possible.
 | --------------------- | ------------------ |
 | Single - Ambient Gold | Single - White Lie |
 
-[Back to Main Document](../readme.md)
+[Back to Main Document](../)
