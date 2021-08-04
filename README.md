@@ -25,3 +25,7 @@ If Streambeats releases new music/albums based on the license mentioned above, y
 ## Disclaimer
 
 In no capacity, you should use this repo for personal profit. Please read the license provided above.
+
+## Categories
+
+- [Lo-Fi](Lo-Fi/readme.md)
