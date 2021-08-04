@@ -28,4 +28,4 @@ In no capacity, you should use this repo for personal profit. Please read the li
 
 ## Categories
 
-- [Lo-Fi](Lo-Fi/readme.md)
+- [Lo-Fi](Lo-Fi/)
