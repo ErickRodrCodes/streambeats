@@ -19,4 +19,4 @@ Albums will be uploaded as soon as possible.
 | --------------------- | ------------------ |
 | Single - Ambient Gold | Single - White Lie |
 
-[Back to Main Document](../)
+[Back to Main Document](https://github.com/tbogard/streambeats)
