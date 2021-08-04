@@ -37,4 +37,4 @@
 | 29    | Rebooting                      | StreamBeats by Harris Heller | 2:21   |
 | 30    | Tim's Crown                    | StreamBeats by Harris Heller | 2:37   |
 
-[Back to List of albums](../readme.md)
+[Back to List of albums](/Lo-Fi/)
