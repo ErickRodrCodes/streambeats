@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:100,StreamBeats by Harris Heller - Heart Piece
+01 Heart Piece.mp3
+#EXTINF:112,StreamBeats by Harris Heller - Moons of Lylat
+02 Moons of Lylat.mp3
+#EXTINF:121,StreamBeats by Harris Heller - The Illusive Man
+03 The Illusive Man.mp3
+#EXTINF:136,StreamBeats by Harris Heller - Not Enough Movement
+04 Not Enough Movement.mp3
+#EXTINF:109,StreamBeats by Harris Heller - Minuet of the Forest
+05 Minuet of the Forest.mp3
+#EXTINF:113,StreamBeats by Harris Heller - Would You Kindly
+06 Would You Kindly.mp3
+#EXTINF:116,StreamBeats by Harris Heller - Lavender Tower
+07 Lavender Tower.mp3
+#EXTINF:117,StreamBeats by Harris Heller - Unfortunate Fate
+08 Unfortunate Fate.mp3
+#EXTINF:105,StreamBeats by Harris Heller - Desync
+09 Desync.mp3
+#EXTINF:118,StreamBeats by Harris Heller - Mute City
+10 Mute City.mp3
+#EXTINF:103,StreamBeats by Harris Heller - Guilty Spark
+11 Guilty Spark.mp3
+#EXTINF:116,StreamBeats by Harris Heller - Skyward
+12 Skyward.mp3
+#EXTINF:117,StreamBeats by Harris Heller - Ether
+13 Ether.mp3
 #EXTINF:118,StreamBeats by Harris Heller - Digital Threat
 14 Digital Threat.mp3
 #EXTINF:123,StreamBeats by Harris Heller - Tall Grass
@@ -33,29 +59,3 @@
 29 Manhattan Project.mp3
 #EXTINF:113,StreamBeats by Harris Heller - Little Light
 30 Little Light.mp3
-#EXTINF:100,StreamBeats by Harris Heller - Heart Piece
-01 Heart Piece.mp3
-#EXTINF:112,StreamBeats by Harris Heller - Moons of Lylat
-02 Moons of Lylat.mp3
-#EXTINF:121,StreamBeats by Harris Heller - The Illusive Man
-03 The Illusive Man.mp3
-#EXTINF:136,StreamBeats by Harris Heller - Not Enough Movement
-04 Not Enough Movement.mp3
-#EXTINF:109,StreamBeats by Harris Heller - Minuet of the Forest
-05 Minuet of the Forest.mp3
-#EXTINF:113,StreamBeats by Harris Heller - Would You Kindly
-06 Would You Kindly.mp3
-#EXTINF:116,StreamBeats by Harris Heller - Lavender Tower
-07 Lavender Tower.mp3
-#EXTINF:117,StreamBeats by Harris Heller - Unfortunate Fate
-08 Unfortunate Fate.mp3
-#EXTINF:105,StreamBeats by Harris Heller - Desync
-09 Desync.mp3
-#EXTINF:118,StreamBeats by Harris Heller - Mute City
-10 Mute City.mp3
-#EXTINF:103,StreamBeats by Harris Heller - Guilty Spark
-11 Guilty Spark.mp3
-#EXTINF:116,StreamBeats by Harris Heller - Skyward
-12 Skyward.mp3
-#EXTINF:117,StreamBeats by Harris Heller - Ether
-13 Ether.mp3
